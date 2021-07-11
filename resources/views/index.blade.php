@@ -54,7 +54,7 @@
                     <div class="carousel">
                         <a class="carousel-item" href="#one!"><img src="{{asset('img/IMG-20210710-WA0072.jpg')}}"></a>
                         <a class="carousel-item" href="#two!"><img src="{{asset('img/IMG-20210710-WA0073.jpg')}}"></a>
-                        <a class="carousel-item" href="#three!"><img src="{{asset('img/')}}"></a>
+                        <a class="carousel-item" href="#three!"><img src="{{asset('img/IMG-20210711-WA0002.jpg')}}"></a>
                     </div>
                 </div>
             </div>
