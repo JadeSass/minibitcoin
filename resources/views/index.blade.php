@@ -54,7 +54,7 @@
                     <div class="carousel">
                         <a class="carousel-item" href="#one!"><img src="{{asset('img/IMG-20210711-WA0014.jpg')}}"><b class="orange-text text-darken-3 text-center">Steve David ~ C.E.O</b></a>
                         <a class="carousel-item" href="#two!"><img src="{{asset('img/IMG-20210711-WA0016.jpg')}}"><b class="orange-text text-darken-3 text-center">Brad Brown ~ Developer</b></a>
-                        <a class="carousel-item" href="#three!"><img src="{{asset('img/IMG-20210711-WA0002.jpg')}}"><b class="orange-text text-darken-3 text-center">Neula ~ Graphics Designer</b> </a>
+                        <a class="carousel-item" href="#three!"><img src="{{asset('img/IMG-20210711-WA0002.jpg')}}"><b class="orange-text text-darken-3 text-center">Neulz ~ Graphics Designer</b> </a>
                     </div>
                 </div>
             </div>
