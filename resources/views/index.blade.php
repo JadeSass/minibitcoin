@@ -89,8 +89,11 @@
                 </div>
             </div>
             <div class=faq" id="mb-faq">
-            <h4 class="orange-text text-darken-3 left-align">FAQ</h4>
-            <h5 class="grey-text left-align">Here are the answers to some of the most common questions we get in the group - come say hello if you want any more information. </h5>
+            <div class="container">
+            h4 class="orange-text text-darken-3 left-align">FAQ</h4>
+            <h5 class="grey-text left-align">Here are the answers to some of the most common questions we get in the group come say hello if you want any more information. </h5>
+            
+            </div>
               <div class="row">
                   <div class="col s12 m6 l4 xl4">
                       <div class="card darken-3 orange">
@@ -147,6 +150,7 @@
                       </div>
                   </div>
               </div>
+           </div>
         </div>
         <!-- Compiled and minified JavaScript -->
         <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
