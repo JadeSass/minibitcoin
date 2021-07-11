@@ -49,8 +49,8 @@
             </div>
             <div class="use-timeline" id="mb-timeline">
                 <div class="container">
-                    <h4 class="orange-text text-darken-3 center-align"><b>OUR TEAM</b></h4>
-                    <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>Here's our timeline, some of these dates may change however due to market conditions..</b><br><br></h6>
+                    <h4 class="orange-text text-darken-3 center-align"><b>THE LEADERSHIP TEAM</b></h4>
+                    <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>We know how important it is for investors to know who they're trusting their money with. We're doxxing at launch so you'll have full visibility on the team and their backgrounds.</b><br><br></h6>
                     <div class="carousel">
                         <a class="carousel-item" href="#one!"><img src="{{asset('img/IMG-20210711-WA0014.jpg')}}"><b class="orange-text text-darken-3 center-align">Steve David</b></a>
                         <a class="carousel-item" href="#two!"><img src="{{asset('img/IMG-20210711-WA0016.jpg')}}"><b class="orange-text text-darken-3 center-align">Brad Brown</b></a>
