@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Mini Bitcoin | </title>
+        <title>Mini Bitcoin | The Sister Bitcoin ready to take over from her uncle.</title>
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
         <!-- Compiled and minified CSS -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -52,9 +52,9 @@
                     <h4 class="orange-text text-darken-3 center-align"><b>THE LEADERSHIP TEAM</b></h4>
                     <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>We know how important it is for investors to know who they're trusting their money with. We're doing at launch so you'll have full visibility on the team and their backgrounds.</b><br></h6>
                     <div class="carousel">
-                        <a class="carousel-item" href="#one!"><img src="{{asset('img/IMG-20210711-WA0014.jpg')}}"><b class="orange-text text-darken-3 text-center">Steve David ~ C.E.O</b></a>
-                        <a class="carousel-item" href="#two!"><img src="{{asset('img/IMG-20210711-WA0016.jpg')}}"><b class="orange-text text-darken-3 text-center">Brad Brown ~ Developer</b></a>
-                        <a class="carousel-item" href="#three!"><img src="{{asset('img/IMG-20210711-WA0002.jpg')}}"><b class="orange-text text-darken-3 text-center">Neulz ~ Graphics Designer</b> </a>
+                        <a class="carousel-item" href="https://t.me/Crypto_mooner"><img src="{{asset('img/IMG-20210711-WA0014.jpg')}}"><b class="orange-text text-darken-3 text-center">Steve David ~ C.E.O <i class="fa fa-telegram"></i></b></a>
+                        <a class="carousel-item" href="https://t.me/De_ve_loper"><img src="{{asset('img/IMG-20210711-WA0016.jpg')}}"><b class="orange-text text-darken-3 text-center">Brad Brown ~ Developer <i class="fa fa-telegram"></i></b></a>
+                        <a class="carousel-item" href="https://t.me/nuel01"><img src="{{asset('img/IMG-20210711-WA0002.jpg')}}"><b class="orange-text text-darken-3 text-center">Neulz ~ Graphics Designer <i class="fa fa-telegram"></i></b> </a>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     </h6>
                 </div>
             </div>
-              <div class="use-timeline" id="mb-timeline">
+            <div class="use-timeline" id="mb-timeline">
                 <div class="container">
                     <h4 class="orange-text text-darken-3 center-align"><b>SOFTCAP BUDGET ALLOCATION</b></h4>
                     <div class="col s12 m12 l6 xl6">
@@ -88,6 +88,65 @@
                     </div>
                 </div>
             </div>
+            <div class=faq" id="mb-faq">
+            <h4 class="orange-text text-darken-3 left-align">FAQ</h4>
+            <h5 class="grey-text left-align">Here are the answers to some of the most common questions we get in the group - come say hello if you want any more information. </h5>
+              <div class="row">
+                  <div class="col s12 m6 l4 xl4">
+                      <div class="card darken-3 orange">
+                         <div class="card-content white-text">
+                            <span class="card-title"><b>Why Binance Smart Chain?</b></span>
+                            <p>Binance Smart Chain has the greatest reach and lower cost of entry. We did consider ETH we think overall, BSC was the right choice.</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="col s12 m6 l4 xl4">
+                      <div class="card orange darken-3">
+                         <div class="card-content white-text">
+                            <span class="card-title"><b>Why have a private pre-sale?</b></span>
+                            <p>Launching a coin is very tricky, stealth launches get no interest, pre-sales are usually overly botted and are dumped quickly. We think a whitelisted private pre-sale is the best way to launch a coin.</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="col s12 m6 l4 xl4">
+                      <div class="card orange darken-3">
+                         <div class="card-content white-text">
+                            <span class="card-title"><b>What's with the token burn?</b></span>
+                            <p>We’ll start with 10Quadrillion coins, which is a lot but we’ll be burning approximately 21 Trillion coins a week. Pretty unique we think.</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="col s12 m6 l4 xl4">
+                      <div class="card orange darken-3">
+                         <div class="card-content white-text">
+                            <span class="card-title"><b>Will you lock liquidity?</b></span>
+                            <p>Yes – we’ll lock PCS liquidity for over a year – probably more. We’re allocating 75% of the pre-sale to the PCS liquidity pool to give investors assurance that we’re a solid coin.</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="col s12 m6 l4 xl4">
+                      <div class="card orange darken-3">
+                         <div class="card-content white-text">
+                            <span class="card-title"><b>Will you renounce the contract?</b></span>
+                            <p>Contract renouncement isn’t a silver bullet to a secure coin. Like Safemoon and lots of other coins, we need to retain ownership of the contract to burn the tokens on a weekly basis. The functions of the contract will be safe however and will limit the devs to only verified safe operations.</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="col s12 m6 l4 xl4">
+                      <div class="card orange darken-3">
+                         <div class="card-content white-text">
+                            <span class="card-title"><b>What are the future plans??</b></span>
+                            <p>Firstly we need to launch and get a solid foundation of investors. After that, we’ll be going for staking, contract audits, exchange listings – the usual stuff tbh.</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+              </div>
         </div>
         <!-- Compiled and minified JavaScript -->
         <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
