@@ -52,7 +52,7 @@
                     <h4 class="orange-text text-darken-3 center-align"><b>THE LEADERSHIP TEAM</b></h4>
                     <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>We know how important it is for investors to know who they're trusting their money with. We're doing at launch so you'll have full visibility on the team and their backgrounds.</b><br></h6>
                     <div class="carousel">
-                        <a class="carousel-item" href="https://t.me/De_ve_loper"><img src="{{asset('img/IMG-20210711-WA0048.jpg')}}"><b class="orange-text text-darken-3 text-center">Steve Dave ~ C.E.O <i class="fa fa-telegram"></i></b></a>
+                        <a class="carousel-item" href="https://t.me/Crypto_mooner"><img src="{{asset('img/IMG-20210711-WA0048.jpg')}}"><b class="orange-text text-darken-3 text-center">Steve David ~ C.E.O <i class="fa fa-telegram"></i></b></a>
                         <a class="carousel-item" href="https://t.me/De_ve_loper"><img src="{{asset('img/IMG-20210711-WA0016.jpg')}}"><b class="orange-text text-darken-3 text-center">Brad Brown ~ Developer <i class="fa fa-telegram"></i></b></a>
                         <a class="carousel-item" href="https://t.me/nuel01"><img src="{{asset('img/IMG-20210711-WA0002.jpg')}}"><b class="orange-text text-darken-3 text-center">Neulz ~ Graphics Designer <i class="fa fa-telegram"></i></b> </a>
                     </div>
