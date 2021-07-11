@@ -40,3 +40,18 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.bdr-mb{
+    border-width: 2px solid;
+    border-radius: 5px;
+}
+
+#mb-roadmap {
+    margin-top: -20px !important;
+    padding-top: 30px !important;
+    height: 110vh;
+    overflow: hidden !important;
+    background: linear-gradient(rgba(255, 255, 255, 0.747), rgba(255, 255, 255, 0.747)), url('logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
