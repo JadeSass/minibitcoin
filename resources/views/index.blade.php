@@ -152,6 +152,12 @@
                   </div>
               </div>
            </div>
+           <div class="footer-copyright" style="padding: 6px;">
+            <div class="container">
+            © 2021 Copyright Mini Bitcoin.
+            <a class="grey-text text-lighten-4 right" href="#particles-js">Move up</a>
+            </div>
+          </div>
         </div>
         <!-- Compiled and minified JavaScript -->
         <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
