@@ -53,7 +53,7 @@
                     <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>Here's our timeline, some of these dates may change however due to market conditions..</b><br><br></h6>
                     <div class="carousel">
                         <a class="carousel-item" href="#one!"><img src="{{asset('img/IMG-20210711-WA0014.jpg')}}"><b class="orange-text text-darken-3 center-align">Steve David</b></a>
-                        <a class="carousel-item" href="#two!"><img src="{{asset('img/IMG-20210711-WA0016.jpg')}}"><b class="orange-text text-darken-3 center-align"></b></a>
+                        <a class="carousel-item" href="#two!"><img src="{{asset('img/IMG-20210711-WA0016.jpg')}}"><b class="orange-text text-darken-3 center-align">Brad Brown</b></a>
                         <a class="carousel-item" href="#three!"><img src="{{asset('img/IMG-20210711-WA0002.jpg')}}"></a>
                     </div>
                 </div>
