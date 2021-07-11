@@ -44,7 +44,15 @@
 
                     <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>1% fee = Distributed to all existing holders<br><br>4% fee = Auto liquidity safety step by step plan to ensure 100% safety. <br><br>Total Supply: 10,000,000,000,000,000,000 Quadrillion.</b><br><br>CONTRACT ADDRESS:<br><br></h6>
                     <a href="https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a" target="_blank" class="blue-text text-darken-3 text-center">https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a</a>
+                </div>
+            </div>
+            <div class="use-case" id="mb-liquidity">
+                <div class="container">
+                    <h4 class="orange-text text-darken-3 center-align"><b>THE TIMELINE</b></h4>
+                    <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>Here's our timeline, some of these dates may change however due to market conditions..</b><br><br></h6>
 
+                    <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>1% fee = Distributed to all existing holders<br><br>4% fee = Auto liquidity safety step by step plan to ensure 100% safety. <br><br>Total Supply: 10,000,000,000,000,000,000 Quadrillion.</b><br><br>CONTRACT ADDRESS:<br><br></h6>
+                    <a href="https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a" target="_blank" class="blue-text text-darken-3 text-center">https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a</a>
                 </div>
             </div>
         </div>
