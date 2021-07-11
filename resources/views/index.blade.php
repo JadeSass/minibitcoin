@@ -75,6 +75,7 @@
             <div class="use-timeline" id="mb-timeline">
                 <div class="container">
                     <h4 class="orange-text text-darken-3 center-align"><b>SOFTCAP BUDGET ALLOCATION</b></h4>
+                    <div class="row">
                     <div class="col s12 m12 l6 xl6">
                         <div class="center-align responsive-img" style="line-height:1.9rem;"><img class="responsive-img" src="{{asset('img/IMG-20210711-WA0022.jpg')}}" alt="allocation"></div>
                     </div>
@@ -86,13 +87,13 @@
                            <li class="collection-item green-text text-lighten-3"><b>Store 18%</b><br>18% of the total supply would be stored, thereby causing scarcity to boost the value of the either during listing on big exchanges</li>
                         </ul>
                     </div>
+                    <div>
                 </div>
             </div>
             <div class=faq" id="mb-faq">
             <div class="container">
-            h4 class="orange-text text-darken-3 left-align">FAQ</h4>
-            <h5 class="grey-text left-align">Here are the answers to some of the most common questions we get in the group come say hello if you want any more information. </h5>
-            
+                <h4 class="orange-text text-darken-3 left-align">FREQUENTLY ASKED QUESTIONS</h4>
+                <h5 class="grey-text left-align">Here are the answers to some of the most common questions we get in the group come say hello if you want any more information. </h5>
             </div>
               <div class="row">
                   <div class="col s12 m6 l4 xl4">
