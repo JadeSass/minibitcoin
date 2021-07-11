@@ -7,7 +7,7 @@
         <li><a href="#particles-js" class="orange-text text-darken-3">Home</a></li>
         <li><a href="#mb-about" class="orange-text text-darken-3">What is Mini Bitcoin?</a></li>
         <li><a href="#use-case" class="orange-text text-darken-3">Use Case</a></li>
-        <li><a href="leadership" class="orange-text text-darken-3">Leadership</a></li>
+        <li><a href="#mb-timeline" class="orange-text text-darken-3">Leadership</a></li>
       </ul>
     </div>
   </nav>
@@ -16,7 +16,7 @@
     <li><a href="#particles-js" class="orange-text text-darken-3">Home</a></li>
     <li><a href="#mb-about" class="orange-text text-darken-3">What is Mini Bitcoin?</a></li>
     <li><a href="#use-case" class="orange-text text-darken-3">Use Case</a></li>
-    <li><a href="#leadership" class="orange-text text-darken-3">About Us</a></li>
+    <li><a href="#mb-timeline" class="orange-text text-darken-3">About Us</a></li>
     <div class="divider"></div>
     <h6 class="center-align black-text"><b>Join our community</b></h6>
     <li><a href="https://t.me/mini_btc"><i class="fa fa-telegram fa-2x blue-text text-lighten-1"></i> Telegram Group</a></li>
