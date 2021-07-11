@@ -76,7 +76,7 @@
                 <div class="container">
                     <h4 class="orange-text text-darken-3 center-align"><b>SOFTCAP BUDGET ALLOCATION</b></h4>
                     <div class="col s12 m12 l6 xl6">
-                        <div class="center-align responsive-img" style="line-height:1.9rem;"><img src="{{asset('img/IMG-20210711-WA0022.jpg')}} alt="allocation"></div>
+                        <div class="center-align responsive-img" style="line-height:1.9rem;"><img class="responsive-img" src="{{asset('img/IMG-20210711-WA0022.jpg')}}" alt="allocation"></div>
                     </div>
                     <div class="info col s12 m12 l6 xl6 ">
                        <ul class="collection">
