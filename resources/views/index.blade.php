@@ -46,13 +46,103 @@
                     <a href="https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a" target="_blank" class="blue-text text-darken-3 text-center">https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a</a>
                 </div>
             </div>
-            <div class="use-case" id="mb-liquidity">
+            <div class="use-timeline" id="mb-timeline">
                 <div class="container">
                     <h4 class="orange-text text-darken-3 center-align"><b>THE TIMELINE</b></h4>
                     <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>Here's our timeline, some of these dates may change however due to market conditions..</b><br><br></h6>
+                      <div class="contain">
+    <div class="timeline">
+      
+			<div class="timeline-event">
+        <div class="card timeline-content">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="https://lorempixel.com/800/400/food/1">
+            <span class="card-title gradient white-text text-darken-4">
+							2018<br>
+							<small>January 17th</small>
+						</span>
+          </div>
+          <div class="card-content teal white-text">
+            <p>Google announces the search algorithm change dubbed the “Speed Update" coming in July.</p>
+          </div>
+        </div>
+        <div class="timeline-badge red lighten-3 white-text"></div>
+      </div>
+			
+			
+			<div class="timeline-event">
+        <div class="card timeline-content">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="https://lorempixel.com/800/400/food/2">
+            <span class="card-title gradient white-text text-darken-4">
+							2018<br>
+							<small>January 17th</small>
+						</span>
+          </div>
+          <div class="card-content teal white-text">
+            <p>Google announces the search algorithm change dubbed the “Speed Update" coming in July.</p>
+          </div>
+        </div>
+        <div class="timeline-badge red lighten-3 white-text"></div>
+      </div>
+			
+			
+			<div class="timeline-event">
+        <div class="card timeline-content">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="https://lorempixel.com/800/400/food/3">
+            <span class="card-title gradient white-text text-darken-4">
+							2018<br>
+							<small>January 17th</small>
+						</span>
+          </div>
+          <div class="card-content teal white-text">
+            <p>Google announces the search algorithm change dubbed the “Speed Update" coming in July.</p>
+          </div>
+        </div>
+        <div class="timeline-badge red lighten-3 white-text"></div>
+      </div>
 
-                    <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>1% fee = Distributed to all existing holders<br><br>4% fee = Auto liquidity safety step by step plan to ensure 100% safety. <br><br>Total Supply: 10,000,000,000,000,000,000 Quadrillion.</b><br><br>CONTRACT ADDRESS:<br><br></h6>
-                    <a href="https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a" target="_blank" class="blue-text text-darken-3 text-center">https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a</a>
+	
+						
+			
+			<div class="timeline-event">
+        <div class="card timeline-content">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="https://lorempixel.com/800/400/food/4">
+            <span class="card-title gradient white-text text-darken-4">
+							2018<br>
+							<small>January 17th</small>
+						</span>
+          </div>
+          <div class="card-content teal white-text">
+            <p>Google announces the search algorithm change dubbed the “Speed Update" coming in July.</p>
+          </div>
+        </div>
+        <div class="timeline-badge red lighten-3 white-text"></div>
+      </div>
+			
+			
+			<div class="timeline-event">
+        <div class="card timeline-content">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="https://lorempixel.com/800/400/food/5">
+            <span class="card-title gradient white-text text-darken-4">
+							2018<br>
+							<small>January 17th</small>
+						</span>
+          </div>
+          <div class="card-content teal white-text">
+            <p>Google announces the search algorithm change dubbed the “Speed Update" coming in July.</p>
+          </div>
+        </div>
+        <div class="timeline-badge red lighten-3 white-text"></div>
+      </div>
+			
+			
+    </div>
+  </div>
+                    </div>
                 </div>
             </div>
         </div>
