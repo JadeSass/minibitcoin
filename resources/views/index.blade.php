@@ -22,7 +22,7 @@
                         <h4 class="orange-text text-darken-3 center-align"><b>Mini <i class="fa fa-bitcoin"></i>itcoin</b></h4>
                         <h5 class="white-text center-align"><b>THE BRAND NEW COIN ON BINANCE SMART CHAIN</b></h5>
                         <h6 class="white-text center-align" style="line-height:1.9rem;"><i class="fa fa-bitcoin"></i>itcoin is getting older these days, as it has been the father of crypto for a long time and it has used the best out of him.
-                        Now is the time to hand over the power to its little energetic sister to push the family name in a new more exciting and furistic icetiNgz direction and puts the family name in good market conditions and the commu want to go. </h6><br>
+                        Now is the time to hand over the power to its little energetic sister to push the family name in a new more exciting and furistic direction and puts the family in good market.</h6><br>
                         <div class="center-align">
                             <a href="#mb-about" class="btn-flat orange darken-3 white-text waves-effect"><b>Start Exploring</b></a>
                         </div>
