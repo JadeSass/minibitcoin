@@ -23,7 +23,7 @@
                         <h6 class="white-text center-align" style="line-height:1.9rem;"><i class="fa fa-bitcoin"></i>itcoin is getting older these days, as it has been the father of crypto for a long time and it has used the best out of him.
                         Now is the time to hand over the power to its little energetic sister to push the family name in a new more exciting and furistic icetiNgz direction and puts the family name in good market conditions and the commu want to go. </h6><br>
                         <div class="center-align">
-                            <a href="" class="btn-flat orange darken-3 white-text waves-effect"><b>Start Exploring</b></a>
+                            <a href="#mb-about" class="btn-flat orange darken-3 white-text waves-effect"><b>Start Exploring</b></a>
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
                     <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>With the less gas fee. Our token will evolve into could be a wallet with a built in bridge that will easily convert ERC-20 Tokens for BEP-20 or vice versa.</b><br><br><i class="fa fa-arrow-down orange-text text-darken-3 center-align"></i></h6>
 
                     <h6 class="orange-text text-darken-3 center-align" style="line-height:1.9rem;"><b>1% fee = Distributed to all existing holders<br><br>4% fee = Auto liquidity safety step by step plan to ensure 100% safety. <br><br>Total Supply: 10,000,000,000,000,000,000 Quadrillion.</b><br><br>CONTRACT ADDRESS:<br><br></h6>
-                    <a href="#" class="blue-text text-darken-3 text-center"></a>
+                    <a href="https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a" target="_blank" class="blue-text text-darken-3 text-center">https://bscscan.com/token/0xaf8f936151ed89a180931e4013b78024c43c238a</a>
 
                 </div>
             </div>
