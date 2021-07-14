@@ -1,4 +1,4 @@
-4r class="navbar-fixed">
+<header class="navbar-fixed">
 <nav class="white">
     <div class="nav-wrapper container">
       <a href="#!" class="brand-logo orange-text text-darken-3"><img src="{{asset('img/logo.png')}}" alt="" width="65px" height="65px"></a>
